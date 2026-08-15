@@ -49,5 +49,13 @@
     "codex"
   ],
   "license": "MIT",
-  "author": "yjm <2379815141@qq.com>"
+  "author": "yjm <2379815141@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yujm888/dsh-turn-rail.git"
+  },
+  "homepage": "https://github.com/Yujm888/dsh-turn-rail#readme",
+  "bugs": {
+    "url": "https://github.com/Yujm888/dsh-turn-rail/issues"
+  }
 }
