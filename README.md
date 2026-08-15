@@ -26,8 +26,9 @@ following the current reading position.
   user messages, click a result to jump. Close with `Esc`, another click on the
   button, a result click, or a click outside the rail.
 - **30-marker scrolling window** — with more than 30 turns the rail scrolls
-  internally with a hidden scrollbar. Near the latest 15 turns it stays pinned
-  to the bottom; otherwise it centers the current turn automatically.
+  internally with a hidden scrollbar. On open, and while reading near the
+  latest 15 turns, it stays pinned to the bottom; otherwise the rail remains
+  where the user scrolled it.
 - **Theme-aware and responsive** — markers use DSH CSS variables and scale
   slightly with viewport size.
 - **Full-session projection** — the host half folds the durable session log so
