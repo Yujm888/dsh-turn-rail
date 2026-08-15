@@ -12,6 +12,12 @@ following the current reading position.
 > inspired by common turn-navigation rails such as Codex and the DeepSeek web
 > client; the implementation is independent.
 
+## Screenshots
+
+![Turn rail](rail.png)
+
+![Tooltip and search](search.png)
+
 ## Features
 
 - **Edge-peek auto-hide** — appears when the pointer is within 110 px of the
