@@ -2,6 +2,8 @@
 
 A Codex-style auto-hiding turn rail for DeepSeek Harness Web.
 
+Minimal by design: no settings, no extra panels, zero runtime dependencies.
+
 The rail lives on the right edge of the conversation. Move the pointer near the
 edge and it fades in; move away and it fades out. Hover the thin zone around a
 marker to preview that turn, click anywhere in the wider marker area to jump.
