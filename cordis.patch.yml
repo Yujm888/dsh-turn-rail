@@ -1,0 +1,4 @@
+- insert:
+    - id: turn-rail
+      name: dsh-turn-rail
+      inject: [sessionProjections]
