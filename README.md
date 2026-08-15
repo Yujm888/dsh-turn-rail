@@ -71,7 +71,6 @@ All tunables live at the top of `lib/client.js`:
 | `HIDE_DELAY_MS` | `120` | Wait before the rail starts fading out |
 | `UNMOUNT_AFTER_MS` | `200` | Remove tooltip/search after the fade completes |
 | `MAX_VISIBLE_MARKS` | `30` | Maximum markers visible when the rail scrolls |
-| `BOTTOM_FOLLOW_TURNS` | `15` | Stay pinned to the bottom when this close to the latest turn |
 | `SEARCH_LIMIT` | `30` | Maximum search results |
 
 Rail geometry and marker sizes are in the `css` array in the same file.
